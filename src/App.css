@@ -1,0 +1,22 @@
+
+.page {
+  display:flex;
+  white-space: nowrap;
+
+}
+
+.page-centered {
+  text-align: center;
+  display:flex;
+  height: 100%;
+  white-space: nowrap;
+}
+
+
+.App-logo {
+  float: center;
+}
+
+.App-buttons {
+  float: center;
+}
